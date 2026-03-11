@@ -1,0 +1,6 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32","32","D","","","","Diode_SMD:D_0603_1608Metric","~"
+"H1,H2,H3,H4","4","MountingHole","","Excluded from BOM","","MountingHole:MountingHole_2.2mm_M2","~"
+"J1","1","EJ508A","","","","EJ508A:MPD_EJ508A",""
+"R1","1","25 ohms","","","","Resistor_SMD:R_0603_1608Metric","~"
+"U1,U2","2","BCR401U","","","","BCR401U:SOP95P250X110-6N-1",""
