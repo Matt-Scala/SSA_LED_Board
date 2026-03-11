@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "BCR401U")(type "KiCad")(uri "C:/Users/matth/Downloads/BCR401U")(options "")(descr ""))
   (lib (name "EJ508A")(type "KiCad")(uri "C:/Users/matth/Downloads/EJ508A")(options "")(descr ""))
+  (lib (name "54-00164")(type "KiCad")(uri "C:/Users/matth/Downloads/54-00164")(options "")(descr ""))
 )
